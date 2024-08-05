@@ -25,6 +25,7 @@ Please replace `eval_f1.py` and `eval_hits.py` in `/ParlAI/projects/convai2/` wi
 			| -- generation_utils.py
 			| -- ...
 ```
+In addition, please download the datasets [ConvAI2 PersonaChat](http://parl.ai/downloads/convai2/convai2_fix_723.tgz) and [DNLI](https://wellecks.com/dialogue_nli/) by yourself and replace the corresponding data under the `/data` folder.
 
 ### Fine-tuning
 Use the following command to fine-tune the model:
