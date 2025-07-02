@@ -1,5 +1,5 @@
 # Tmema
-The code of paper "Defining and Remembering Objects: A Transformer Model with External Token Memories and Attention for PersonaChat"
+The code of the paper [Transformer model with external token memories and attention for PersonaChat](https://rdcu.be/eukfM).
 
 ## How to reproduce the experiment
 The code is adapted from [LMEDR](https://github.com/Chenrj233/LMEDR).
